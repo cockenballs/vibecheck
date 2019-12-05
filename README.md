@@ -1,2 +1,0 @@
-# treasurehunt
-A simple webpage
